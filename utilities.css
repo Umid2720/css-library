@@ -1,0 +1,31 @@
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.center {
+  text-align: center;
+}
+
+.ml-a {
+  margin-left: auto;
+}
+
+.mr-a {
+  margin-right: auto;
+}
